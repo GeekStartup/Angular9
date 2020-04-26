@@ -18,10 +18,6 @@ export class RecipeListComponent implements OnInit {
     'https://upload.wikimedia.org/wikipedia/commons/f/f5/Handi-chicken-recipe.jpg'),
     new Recipe('A Test Recipe', 'This is a test', 
     'https://upload.wikimedia.org/wikipedia/commons/f/f5/Handi-chicken-recipe.jpg'),
-    new Recipe('A Test Recipe', 'This is a test', 
-    'https://upload.wikimedia.org/wikipedia/commons/f/f5/Handi-chicken-recipe.jpg'),
-    new Recipe('A Test Recipe', 'This is a test', 
-    'https://upload.wikimedia.org/wikipedia/commons/f/f5/Handi-chicken-recipe.jpg')
   ];
 
 }
